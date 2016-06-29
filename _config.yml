@@ -1,0 +1,14 @@
+layout_spectrum: 0.17422746634110808
+typography_spectrum: 0.34154842770658433
+color:
+  brandStrength: 0.9686263839248568
+  lightness: 0.18040970689617097
+  saturation: 0.9625648853834718
+  rhythmicContrast: 0.9150408699642867
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: regular disappointment
